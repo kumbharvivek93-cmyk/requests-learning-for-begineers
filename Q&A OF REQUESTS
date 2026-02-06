@@ -1,0 +1,12 @@
+INTRODUCTION TO REQUSTS 
+
+QUE :first of the common questions of mejority dev. are what is accutilly requests 
+ANS : the requests is a python module used to learn how apis works and call/ communicate with each other
+      think of it as the python talking with the internet and note that requests is not about fecting data form our website into database that is not job of requests 
+      requests is all about our backend program taking to the internet or other websites thats all
+
+QUE :  how we can learn the requests and learning req, means what to do and what are we will able to ?
+ANS  : we know that most of the apis are paid and very few are free as they are not much poweful but this dose not mean that we are not to learn about ot
+       it is very important 
+       in my opinin learning requests means able to do all types of request such as get , put , patch , delet etc, 
+       we can unserstand the facts and stuff from chatgpt and requsets for humans website official 
